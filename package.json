@@ -1,5 +1,5 @@
 {
-  "name": "@openai/realtime-api-beta",
+  "name": "@nizar/realtime-api-beta",
   "version": "0.0.0",
   "private": true,
   "type": "module",
